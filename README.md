@@ -2,7 +2,7 @@
 
 Assistente que responde perguntas sobre cardápios e pedidos de uma plataforma de delivery: busca híbrida (embeddings + BM25), citação da fonte, ferramentas para filtros exatos e consulta de pedidos, e um guardrail que **se recusa a afirmar** que um prato é seguro para alérgicos quando o restaurante não informa os alergênicos. Acompanha uma suíte de avaliação com 50 perguntas e 20 consultas de busca difíceis.
 
-[![CI](https://github.com/krosct/project-nov26-p3-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/krosct/project-nov26-p3-rag/actions/workflows/ci.yml) · [Demo no Hugging Face Spaces](https://huggingface.co/spaces/krosct/assistente-cardapios)
+[![CI](https://github.com/krosct/project-nov26-p3-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/krosct/project-nov26-p3-rag/actions/workflows/ci.yml)
 
 ## Resultados
 
@@ -29,6 +29,33 @@ Assistente que responde perguntas sobre cardápios e pedidos de uma plataforma d
 | **Híbrida (RRF)** | **0,70** | **0,95** | **0,78** |
 
 Nas 31 perguntas do conjunto principal que têm trecho relevante, as três buscas acertam 100% no top-5 (as perguntas citam o nome do prato) — por isso o conjunto de consultas difíceis existe.
+
+## Exemplos (respostas reais da avaliação)
+
+**Quanto custa o Hot Roll de Salmão do Sushi Kento?**
+> O Hot Roll de Salmão do Sushi Kento custa **R$ 32,90** [1].
+
+<sub>citação: menu02-item01</sub>
+
+**Quais combos custam até R$ 50?**
+> Encontrei 2 combos até R$ 50:
+> 
+> 1. **Combo Feira** – Pastelaria Ponto Certo – R$ 16,00  
+> 2. **Combo Brasa** – Burger Brasa – R$ 49,90  
+> 
+> (Alérgenos não informados para ambos os itens.)
+
+<sub>ferramenta: `filtrar_pratos`</sub>
+
+**O X-Tudo do Burger Brasa tem glúten?**
+> O cardápio do Burger Brasa não informa os alergênicos de "X-Tudo". Por segurança, não consigo confirmar se ele é adequado para sua restrição: confirme os ingredientes diretamente com o restaurante antes de pedir.
+
+<sub>bloqueada pelo guardrail, sem chamar o LLM</sub>
+
+**O Frango Xadrez do Dragão Dourado tem amendoim?**
+> Sim, o Frango Xadrez do Dragão Dourado contém amendoim — tanto na descrição ("amendoim") quanto na lista de alérgenos [1].
+
+<sub>citação: menu13-item01</sub>
 
 ## Como funciona
 
@@ -62,7 +89,9 @@ uv run python scripts/avaliar_busca.py     # consultas difíceis → reports/bus
 uv run --group app python app.py           # demo local (Gradio)
 ```
 
-Modelos (gratuitos, via OpenRouter): gerador `nvidia/nemotron-3-ultra-550b-a55b:free`; juiz de **outro fornecedor**, `dots-studio/dots-3-note-preview:free`, para reduzir o viés de autoavaliação. A demo limita 10 perguntas por sessão.
+O deploy no Hugging Face Spaces está pronto em [`scripts/deploy_space.py`](scripts/deploy_space.py) (a chave vai como *secret* do Space); hospedar Gradio no Spaces exige plano PRO.
+
+Modelos (gratuitos, via OpenRouter): gerador `nvidia/nemotron-3-ultra-550b-a55b:free`; juiz de **outro fornecedor**, `dots-studio/dots-3-note-preview:free`, para reduzir o viés de autoavaliação. A demo limita 10 perguntas por sessão para proteger a cota da API.
 
 ## Decisões e trade-offs
 

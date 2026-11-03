@@ -10,7 +10,7 @@ from pathlib import Path
 from huggingface_hub import HfApi
 
 RAIZ = Path(__file__).resolve().parents[1]
-SPACE = "krosct/assistente-cardapios"
+SPACE = "trebuchetly/assistente-cardapios"
 
 
 def main() -> None:
