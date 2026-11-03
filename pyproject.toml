@@ -1,0 +1,50 @@
+[project]
+name = "project-nov26-p3-rag"
+version = "0.1.0"
+description = "Assistente de cardápio com RAG híbrido, tool calling, guardrail de alergênicos e suíte de avaliação."
+readme = "README.md"
+authors = [
+    { name = "Gabriel MS", email = "krosct@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.4",
+    "openai>=3.42.1",
+    "pydantic>=2.14.2",
+    "python-dotenv>=1.2.4",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=6.2.0",
+    "torch>=2.15.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]   # erros, imports, bugs comuns, sintaxe moderna
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+# PyTorch só CPU: mais leve e igual ao ambiente do Hugging Face Spaces
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cpu" }]
+
+[dependency-groups]
+app = [
+    "gradio>=6.31.0",
+    "huggingface-hub>=2.4.0",
+]
+dev = [
+    "pytest>=9.2.0",
+    "ruff>=0.17.3",
+]
