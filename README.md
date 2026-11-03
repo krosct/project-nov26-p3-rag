@@ -4,6 +4,10 @@ Assistente que responde perguntas sobre cardápios e pedidos de uma plataforma d
 
 [![CI](https://github.com/krosct/project-nov26-p3-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/krosct/project-nov26-p3-rag/actions/workflows/ci.yml)
 
+![Demo: filtro por preço com ferramenta, recusa pelo guardrail de alergênicos e resposta com citação](reports/demo.gif)
+
+<sub>Demo local (Gradio). As respostas da gravação vêm do cache da avaliação; a latência real no modelo gratuito está na tabela abaixo.</sub>
+
 ## Resultados
 
 **Assistente completo** — 50 perguntas ([`data/avaliacao.jsonl`](data/avaliacao.jsonl)): 20 de fato, 10 de filtro, 5 de política, 5 de pedido e **10 armadilhas** que devem ser recusadas (alergênico não informado, item inexistente, fora do domínio).
