@@ -1,0 +1,20 @@
+{"consulta": "xtudo", "chunks_relevantes": ["menu03-item01"], "tipo": "erro de digitação"}
+{"consulta": "hot rol salmao", "chunks_relevantes": ["menu02-item01"], "tipo": "erro de digitação"}
+{"consulta": "cachorro quente", "chunks_relevantes": ["menu17-item01"], "tipo": "sem hífen"}
+{"consulta": "chopp gelado", "chunks_relevantes": ["menu20-item06"], "tipo": "termo exato"}
+{"consulta": "sanduba de frango empanado", "chunks_relevantes": ["menu03-item04"], "tipo": "gíria/sinônimo"}
+{"consulta": "pasta árabe de grão de bico", "chunks_relevantes": ["menu09-item06"], "tipo": "descrição sem o nome"}
+{"consulta": "macarrão com molho de carne", "chunks_relevantes": ["menu11-item01"], "tipo": "descrição sem o nome"}
+{"consulta": "doce japonês de arroz", "chunks_relevantes": ["menu14-item06"], "tipo": "descrição sem o nome"}
+{"consulta": "peixe cru fatiado", "chunks_relevantes": ["menu02-item03"], "tipo": "descrição sem o nome"}
+{"consulta": "prato baiano com leite de coco", "chunks_relevantes": ["menu18-item01", "menu18-item02", "menu18-item05"], "tipo": "descrição sem o nome"}
+{"consulta": "bebida fermentada", "chunks_relevantes": ["menu05-item07"], "tipo": "descrição sem o nome"}
+{"consulta": "sorvete com calda", "chunks_relevantes": ["menu15-item03"], "tipo": "descrição sem o nome"}
+{"consulta": "arroz com feijão verde e queijo coalho", "chunks_relevantes": ["menu12-item01"], "tipo": "descrição sem o nome"}
+{"consulta": "rolinho doce de banana", "chunks_relevantes": ["menu02-item09"], "tipo": "descrição sem o nome"}
+{"consulta": "lasanha sem carne", "chunks_relevantes": ["menu05-item03", "menu11-item03"], "tipo": "sinônimo"}
+{"consulta": "pastel doce", "chunks_relevantes": ["menu16-item05"], "tipo": "sinônimo"}
+{"consulta": "pizza só de queijo", "chunks_relevantes": ["menu01-item03"], "tipo": "sinônimo"}
+{"consulta": "tortilha de milho com carne", "chunks_relevantes": ["menu08-item01"], "tipo": "descrição sem o nome"}
+{"consulta": "a entrega pode sair de graça?", "chunks_relevantes": ["politica-taxa_entrega-2"], "tipo": "paráfrase de política"}
+{"consulta": "devolvem meu dinheiro se o restaurante cancelar?", "chunks_relevantes": ["politica-cancelamento-2"], "tipo": "paráfrase de política"}

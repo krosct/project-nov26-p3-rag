@@ -1,0 +1,16 @@
+{
+  "densa": {
+    "recall@5": 1.0,
+    "mrr": 1.0,
+    "n_perguntas_com_relevantes": 31,
+    "armadilhas_recusadas_pelo_guardrail": 6,
+    "recusas_indevidas_do_guardrail": 0
+  },
+  "hibrida": {
+    "recall@5": 1.0,
+    "mrr": 1.0,
+    "n_perguntas_com_relevantes": 31,
+    "armadilhas_recusadas_pelo_guardrail": 6,
+    "recusas_indevidas_do_guardrail": 0
+  }
+}
