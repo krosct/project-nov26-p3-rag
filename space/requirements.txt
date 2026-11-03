@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0
+sentence-transformers==6.2.0
+rank-bm25==0.2.2
+openai==3.42.1
+pydantic==2.14.2
+python-dotenv==1.2.4
+numpy==2.5.4
