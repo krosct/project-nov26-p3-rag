@@ -1,0 +1,69 @@
+{
+  "restaurante": "Boteco Esquina",
+  "itens": [
+    {
+      "nome": "Batata com Cheddar e Bacon",
+      "preco": 34.0,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Bolinho de Bacalhau (6 un.)",
+      "preco": 32.0,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Calabresa Acebolada",
+      "preco": 36.0,
+      "categoria": "entrada",
+      "descricao": "calabresa fatiada, cebola e pão",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Torresmo",
+      "preco": 28.0,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Caldinho de Feijão",
+      "preco": 12.0,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Chopp 300ml",
+      "preco": 11.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Refrigerante Lata",
+      "preco": 6.5,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Porção Mista",
+      "preco": null,
+      "categoria": "combo",
+      "descricao": "torresmo, calabresa e mandioca",
+      "alergenos": null,
+      "vegetariano": null
+    }
+  ]
+}

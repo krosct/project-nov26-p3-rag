@@ -1,0 +1,71 @@
+{
+  "restaurante": "Gelato & Cia",
+  "itens": [
+    {
+      "nome": "Casquinha 1 Bola",
+      "preco": 10.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Copo 2 Bolas",
+      "preco": 16.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": [
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Sundae de Caramelo",
+      "preco": 19.0,
+      "categoria": "sobremesa",
+      "descricao": "sorvete de creme, calda de caramelo e castanhas",
+      "alergenos": [
+        "lactose",
+        "castanhas"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Açaí na Tigela 400ml",
+      "preco": 21.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": [],
+      "vegetariano": null
+    },
+    {
+      "nome": "Milkshake de Morango",
+      "preco": 18.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": [
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Picolé de Fruta",
+      "preco": 7.0,
+      "categoria": "sobremesa",
+      "descricao": "limão, manga ou uva",
+      "alergenos": [],
+      "vegetariano": null
+    },
+    {
+      "nome": "Cobertura Extra",
+      "preco": 3.0,
+      "categoria": "outro",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    }
+  ]
+}

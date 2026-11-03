@@ -1,0 +1,81 @@
+{
+  "restaurante": "Verde Raiz Vegano",
+  "itens": [
+    {
+      "nome": "Burger de Grão-de-Bico",
+      "preco": 29.9,
+      "categoria": "lanche",
+      "descricao": "pão australiano, burger de grão-de-bico e maionese de castanha",
+      "alergenos": [
+        "gluten",
+        "castanhas"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Bowl Tropical",
+      "preco": 34.0,
+      "categoria": "prato_principal",
+      "descricao": "quinoa, manga, abacate, tofu grelhado e gergelim",
+      "alergenos": [
+        "soja"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Lasanha de Berinjela",
+      "preco": 36.5,
+      "categoria": "prato_principal",
+      "descricao": "berinjela, molho de tomate e queijo de castanha",
+      "alergenos": [
+        "castanhas"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Coxinha de Jaca",
+      "preco": 9.9,
+      "categoria": "entrada",
+      "descricao": "massa de mandioca com recheio de jaca",
+      "alergenos": [],
+      "vegetariano": true
+    },
+    {
+      "nome": "Salada Verde Raiz",
+      "preco": 26.0,
+      "categoria": "entrada",
+      "descricao": "folhas, tomate cereja, pepino e molho de tahine",
+      "alergenos": [],
+      "vegetariano": true
+    },
+    {
+      "nome": "Brownie Vegano",
+      "preco": 14.0,
+      "categoria": "sobremesa",
+      "descricao": "cacau 70% e nozes",
+      "alergenos": [
+        "gluten",
+        "castanhas"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Kombucha",
+      "preco": 15.0,
+      "categoria": "bebida",
+      "descricao": "sabor gengibre",
+      "alergenos": [],
+      "vegetariano": true
+    },
+    {
+      "nome": "Leite de Amêndoas com Cacau",
+      "preco": 16.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": [
+        "castanhas"
+      ],
+      "vegetariano": true
+    }
+  ]
+}

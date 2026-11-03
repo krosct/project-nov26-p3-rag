@@ -1,0 +1,89 @@
+{
+  "restaurante": "Padaria Pão Quente",
+  "itens": [
+    {
+      "nome": "Pão na Chapa",
+      "preco": 7.5,
+      "categoria": "lanche",
+      "descricao": "pão francês com manteiga",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Misto Quente",
+      "preco": 14.0,
+      "categoria": "lanche",
+      "descricao": "pão de forma, presunto e queijo",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Coxinha de Frango",
+      "preco": 8.0,
+      "categoria": "entrada",
+      "descricao": "massa de batata e frango",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Pão de Queijo (6 un.)",
+      "preco": 12.0,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": [
+        "lactose",
+        "ovo"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Bolo de Cenoura",
+      "preco": 9.5,
+      "categoria": "sobremesa",
+      "descricao": "com cobertura de chocolate",
+      "alergenos": [
+        "gluten",
+        "lactose",
+        "ovo"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Café com Leite",
+      "preco": 7.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": [
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Cappuccino",
+      "preco": 10.0,
+      "categoria": "bebida",
+      "descricao": "café, leite e canela",
+      "alergenos": [
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Suco de Laranja",
+      "preco": 9.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": [],
+      "vegetariano": null
+    }
+  ]
+}

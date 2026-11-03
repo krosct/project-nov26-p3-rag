@@ -1,0 +1,109 @@
+[
+  {
+    "id": "1001",
+    "restaurante": "Forno da Vila Pizzaria",
+    "itens": [
+      "Pizza Calabresa",
+      "Refrigerante 2L"
+    ],
+    "status": "em preparo",
+    "previsao": "19:40",
+    "total": 63.9
+  },
+  {
+    "id": "1002",
+    "restaurante": "Sushi Kento",
+    "itens": [
+      "Combo Kento 30 peças"
+    ],
+    "status": "saiu para entrega",
+    "previsao": "20:05",
+    "total": 89.9
+  },
+  {
+    "id": "1003",
+    "restaurante": "Burger Brasa",
+    "itens": [
+      "Combo Brasa",
+      "Onion Rings"
+    ],
+    "status": "entregue",
+    "previsao": "13:10",
+    "total": 71.8
+  },
+  {
+    "id": "1004",
+    "restaurante": "Verde Raiz Vegano",
+    "itens": [
+      "Bowl Tropical",
+      "Kombucha"
+    ],
+    "status": "aguardando confirmação do restaurante",
+    "previsao": "12:50",
+    "total": 49.0
+  },
+  {
+    "id": "1005",
+    "restaurante": "Marmitaria Dona Céu",
+    "itens": [
+      "Feijoada Completa"
+    ],
+    "status": "cancelado pelo restaurante",
+    "previsao": null,
+    "total": 32.0
+  },
+  {
+    "id": "1006",
+    "restaurante": "Aloha Poke",
+    "itens": [
+      "Poke de Salmão",
+      "Edamame"
+    ],
+    "status": "saiu para entrega",
+    "previsao": "21:15",
+    "total": 62.0
+  },
+  {
+    "id": "1007",
+    "restaurante": "Cantina Nonna Lina",
+    "itens": [
+      "Fettuccine Alfredo",
+      "Tiramisù"
+    ],
+    "status": "em preparo",
+    "previsao": "20:30",
+    "total": 68.0
+  },
+  {
+    "id": "1008",
+    "restaurante": "Maré Alta Frutos do Mar",
+    "itens": [
+      "Moqueca de Camarão"
+    ],
+    "status": "entregue",
+    "previsao": "14:00",
+    "total": 99.0
+  },
+  {
+    "id": "1009",
+    "restaurante": "Padaria Pão Quente",
+    "itens": [
+      "Misto Quente",
+      "Cappuccino"
+    ],
+    "status": "saiu para entrega",
+    "previsao": "08:25",
+    "total": 24.0
+  },
+  {
+    "id": "1010",
+    "restaurante": "El Mariachi Cocina Mexicana",
+    "itens": [
+      "Tacos de Carne",
+      "Churros"
+    ],
+    "status": "em preparo",
+    "previsao": "19:55",
+    "total": 47.0
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "restaurante": "Pastelaria Ponto Certo",
+  "itens": [
+    {
+      "nome": "Pastel de Carne",
+      "preco": 9.0,
+      "categoria": "lanche",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Pastel de Queijo",
+      "preco": 9.0,
+      "categoria": "lanche",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Pastel de Pizza",
+      "preco": 10.0,
+      "categoria": "lanche",
+      "descricao": "queijo, presunto, tomate e orégano",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Pastel de Palmito",
+      "preco": 11.0,
+      "categoria": "lanche",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Pastel de Chocolate",
+      "preco": 10.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Caldo de Cana 500ml",
+      "preco": 8.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Combo Feira",
+      "preco": 16.0,
+      "categoria": "combo",
+      "descricao": "pastel + caldo de cana",
+      "alergenos": null,
+      "vegetariano": null
+    }
+  ]
+}

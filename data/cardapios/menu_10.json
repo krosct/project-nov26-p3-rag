@@ -1,0 +1,61 @@
+{
+  "restaurante": "Churrascaria Fogo de Chão Mineiro",
+  "itens": [
+    {
+      "nome": "Picanha na Chapa",
+      "preco": 89.0,
+      "categoria": "prato_principal",
+      "descricao": "400g com arroz, farofa e vinagrete",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Fraldinha Acebolada",
+      "preco": 72.0,
+      "categoria": "prato_principal",
+      "descricao": "350g com mandioca frita",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Costela no Bafo",
+      "preco": 79.0,
+      "categoria": "prato_principal",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Linguiça Toscana",
+      "preco": 34.0,
+      "categoria": "entrada",
+      "descricao": "porção com pão",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Mandioca Frita",
+      "preco": 22.0,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Pudim",
+      "preco": 14.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Cerveja Long Neck",
+      "preco": 12.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    }
+  ]
+}

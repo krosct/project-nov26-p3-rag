@@ -1,0 +1,71 @@
+{
+  "restaurante": "El Mariachi Cocina Mexicana",
+  "itens": [
+    {
+      "nome": "Tacos de Carne",
+      "preco": 32.0,
+      "categoria": "prato_principal",
+      "descricao": "3 tacos de milho com carne desfiada e pico de gallo",
+      "alergenos": [],
+      "vegetariano": false
+    },
+    {
+      "nome": "Burrito de Frango",
+      "preco": 36.0,
+      "categoria": "prato_principal",
+      "descricao": "tortilha de trigo, frango, feijão e queijo",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": false
+    },
+    {
+      "nome": "Quesadilla de Queijo",
+      "preco": 28.0,
+      "categoria": "entrada",
+      "descricao": "tortilha de trigo e queijo derretido",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Nachos com Guacamole",
+      "preco": 30.0,
+      "categoria": "entrada",
+      "descricao": "tortilhas de milho e guacamole",
+      "alergenos": [],
+      "vegetariano": true
+    },
+    {
+      "nome": "Chili com Carne",
+      "preco": 34.5,
+      "categoria": "prato_principal",
+      "descricao": "carne moída, feijão e pimenta",
+      "alergenos": [],
+      "vegetariano": false
+    },
+    {
+      "nome": "Churros",
+      "preco": 15.0,
+      "categoria": "sobremesa",
+      "descricao": "com doce de leite",
+      "alergenos": [
+        "gluten",
+        "lactose",
+        "ovo"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Margarita sem Álcool",
+      "preco": 18.0,
+      "categoria": "bebida",
+      "descricao": "limão e sal",
+      "alergenos": [],
+      "vegetariano": true
+    }
+  ]
+}

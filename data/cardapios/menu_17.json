@@ -1,0 +1,61 @@
+{
+  "restaurante": "Lanchonete do Zé",
+  "itens": [
+    {
+      "nome": "Cachorro-Quente Completo",
+      "preco": 15.0,
+      "categoria": "lanche",
+      "descricao": "salsicha, purê, milho, batata palha e queijo ralado",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Bauru",
+      "preco": 18.0,
+      "categoria": "lanche",
+      "descricao": "pão francês, rosbife, queijo e tomate",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Americano",
+      "preco": 17.0,
+      "categoria": "lanche",
+      "descricao": "presunto, queijo, ovo e alface",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Coxinha",
+      "preco": 7.0,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Enroladinho de Salsicha",
+      "preco": 6.0,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Vitamina de Banana",
+      "preco": 10.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Prato Feito do Dia",
+      "preco": null,
+      "categoria": "prato_principal",
+      "descricao": "consulte o prato do dia",
+      "alergenos": null,
+      "vegetariano": null
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "restaurante": "Sushi Kento",
+  "itens": [
+    {
+      "nome": "Hot Roll de Salmão",
+      "preco": 32.9,
+      "categoria": "entrada",
+      "descricao": "salmão empanado com cream cheese",
+      "alergenos": [
+        "peixe",
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Uramaki Filadélfia",
+      "preco": 29.9,
+      "categoria": "entrada",
+      "descricao": "salmão, cream cheese e cebolinha",
+      "alergenos": [
+        "peixe",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Sashimi de Salmão",
+      "preco": 42.0,
+      "categoria": "prato_principal",
+      "descricao": "10 fatias de salmão fresco",
+      "alergenos": [
+        "peixe"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Temaki de Camarão",
+      "preco": 34.5,
+      "categoria": "lanche",
+      "descricao": "camarão empanado, alface e maionese",
+      "alergenos": [
+        "frutos_do_mar",
+        "gluten",
+        "ovo"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Yakisoba de Legumes",
+      "preco": 38.0,
+      "categoria": "prato_principal",
+      "descricao": "macarrão, legumes e molho shoyu",
+      "alergenos": [
+        "gluten",
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Guioza",
+      "preco": 24.9,
+      "categoria": "entrada",
+      "descricao": "6 unidades de pastel japonês de carne",
+      "alergenos": [
+        "gluten",
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Combo Kento 30 peças",
+      "preco": 89.9,
+      "categoria": "combo",
+      "descricao": "hot roll, uramaki, sashimi e niguiri",
+      "alergenos": [
+        "peixe",
+        "gluten",
+        "lactose",
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Chá Verde Gelado",
+      "preco": 9.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": [],
+      "vegetariano": null
+    },
+    {
+      "nome": "Harumaki de Banana",
+      "preco": 16.0,
+      "categoria": "sobremesa",
+      "descricao": "rolinho de banana com canela",
+      "alergenos": [
+        "gluten"
+      ],
+      "vegetariano": null
+    }
+  ]
+}

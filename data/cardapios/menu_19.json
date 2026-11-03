@@ -1,0 +1,78 @@
+{
+  "restaurante": "Fit & Leve Saladas",
+  "itens": [
+    {
+      "nome": "Salada Caesar com Frango",
+      "preco": 32.0,
+      "categoria": "prato_principal",
+      "descricao": "alface, frango grelhado, croutons e molho caesar",
+      "alergenos": [
+        "gluten",
+        "lactose",
+        "ovo",
+        "peixe"
+      ],
+      "vegetariano": false
+    },
+    {
+      "nome": "Salada Caprese",
+      "preco": 28.0,
+      "categoria": "prato_principal",
+      "descricao": "tomate, mussarela de búfala e manjericão",
+      "alergenos": [
+        "lactose"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Wrap de Atum",
+      "preco": 26.0,
+      "categoria": "lanche",
+      "descricao": "tortilha integral, atum e cenoura",
+      "alergenos": [
+        "gluten",
+        "peixe"
+      ],
+      "vegetariano": false
+    },
+    {
+      "nome": "Bowl Proteico",
+      "preco": 36.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz integral, frango, ovo e brócolis",
+      "alergenos": [
+        "ovo"
+      ],
+      "vegetariano": false
+    },
+    {
+      "nome": "Salada de Quinoa",
+      "preco": 30.0,
+      "categoria": "prato_principal",
+      "descricao": "quinoa, grão-de-bico, pepino e castanhas",
+      "alergenos": [
+        "castanhas"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Iogurte com Granola",
+      "preco": 15.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": [
+        "lactose",
+        "gluten"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Suco Verde",
+      "preco": 12.0,
+      "categoria": "bebida",
+      "descricao": "couve, maçã, limão e gengibre",
+      "alergenos": [],
+      "vegetariano": true
+    }
+  ]
+}

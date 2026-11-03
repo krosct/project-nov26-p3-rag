@@ -1,0 +1,69 @@
+{
+  "restaurante": "Marmitaria Dona Céu",
+  "itens": [
+    {
+      "nome": "Marmita de Frango Grelhado",
+      "preco": 22.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz, feijão, frango grelhado e salada",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Marmita de Carne de Panela",
+      "preco": 25.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz, feijão, carne de panela e farofa",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Marmita de Peixe Frito",
+      "preco": 26.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz, feijão, peixe frito e vinagrete",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Feijoada Completa",
+      "preco": 32.0,
+      "categoria": "prato_principal",
+      "descricao": "feijoada, arroz, couve, farofa e laranja",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Strogonoff de Frango",
+      "preco": 24.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz e batata palha",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Salada Simples",
+      "preco": 12.0,
+      "categoria": "entrada",
+      "descricao": "alface, tomate e cebola",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Pudim de Leite",
+      "preco": 9.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Suco Natural 500ml",
+      "preco": 8.0,
+      "categoria": "bebida",
+      "descricao": "laranja, maracujá ou acerola",
+      "alergenos": null,
+      "vegetariano": null
+    }
+  ]
+}

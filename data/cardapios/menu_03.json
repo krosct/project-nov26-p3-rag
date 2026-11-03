@@ -1,0 +1,77 @@
+{
+  "restaurante": "Burger Brasa",
+  "itens": [
+    {
+      "nome": "X-Tudo",
+      "preco": 36.9,
+      "categoria": "lanche",
+      "descricao": "hambúrguer, queijo, presunto, ovo, bacon, alface e tomate",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Brasa Clássico",
+      "preco": 32.0,
+      "categoria": "lanche",
+      "descricao": "blend 180g, queijo cheddar e molho da casa",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Smash Duplo",
+      "preco": 34.9,
+      "categoria": "lanche",
+      "descricao": "dois smash de 90g com queijo",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Chicken Crispy",
+      "preco": 31.5,
+      "categoria": "lanche",
+      "descricao": "frango empanado, alface e maionese",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Batata Frita Média",
+      "preco": 18.0,
+      "categoria": "entrada",
+      "descricao": "porção de 300g",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Onion Rings",
+      "preco": 21.9,
+      "categoria": "entrada",
+      "descricao": "anéis de cebola empanados",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Milkshake de Ovomaltine",
+      "preco": 22.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Combo Brasa",
+      "preco": 49.9,
+      "categoria": "combo",
+      "descricao": "Brasa Clássico, batata média e refrigerante",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Refrigerante Lata",
+      "preco": 7.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    }
+  ]
+}

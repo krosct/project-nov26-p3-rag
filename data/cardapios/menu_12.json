@@ -1,0 +1,61 @@
+{
+  "restaurante": "Arretado Cozinha Nordestina",
+  "itens": [
+    {
+      "nome": "Baião de Dois",
+      "preco": 38.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz, feijão verde, queijo coalho e carne de sol",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Carne de Sol com Macaxeira",
+      "preco": 52.0,
+      "categoria": "prato_principal",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Escondidinho de Charque",
+      "preco": 36.0,
+      "categoria": "prato_principal",
+      "descricao": "purê de macaxeira e charque",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Tapioca de Queijo Coalho",
+      "preco": 14.0,
+      "categoria": "lanche",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Cuscuz Recheado",
+      "preco": 18.0,
+      "categoria": "lanche",
+      "descricao": "cuscuz com ovo e queijo",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Bolo de Rolo",
+      "preco": 10.0,
+      "categoria": "sobremesa",
+      "descricao": "fatia",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Caldo de Cana",
+      "preco": 8.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    }
+  ]
+}

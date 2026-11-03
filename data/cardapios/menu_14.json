@@ -1,0 +1,75 @@
+{
+  "restaurante": "Aloha Poke",
+  "itens": [
+    {
+      "nome": "Poke de Salmão",
+      "preco": 44.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz, salmão, manga, pepino e gergelim",
+      "alergenos": [
+        "peixe",
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Poke de Atum",
+      "preco": 46.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz, atum, edamame e molho ponzu",
+      "alergenos": [
+        "peixe",
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Poke de Tofu",
+      "preco": 38.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz integral, tofu e abacate",
+      "alergenos": [
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Poke de Camarão",
+      "preco": 49.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz, camarão e molho de amendoim",
+      "alergenos": [
+        "frutos_do_mar",
+        "amendoim",
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Edamame",
+      "preco": 18.0,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": [
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Mochi de Morango",
+      "preco": 12.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": [],
+      "vegetariano": null
+    },
+    {
+      "nome": "Água Saborizada",
+      "preco": 8.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": [],
+      "vegetariano": null
+    }
+  ]
+}

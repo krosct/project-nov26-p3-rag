@@ -1,0 +1,77 @@
+{
+  "restaurante": "Sabores do Líbano",
+  "itens": [
+    {
+      "nome": "Esfiha de Carne",
+      "preco": 6.5,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Esfiha de Queijo",
+      "preco": 6.5,
+      "categoria": "entrada",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Kibe Frito",
+      "preco": 7.0,
+      "categoria": "entrada",
+      "descricao": "trigo e carne moída",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Kafta no Prato",
+      "preco": 39.0,
+      "categoria": "prato_principal",
+      "descricao": "kafta grelhada, arroz sírio e salada",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Shawarma de Frango",
+      "preco": 29.0,
+      "categoria": "lanche",
+      "descricao": "pão sírio, frango, alface e molho de alho",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Homus",
+      "preco": 22.0,
+      "categoria": "entrada",
+      "descricao": "pasta de grão-de-bico com tahine",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Tabule",
+      "preco": 20.0,
+      "categoria": "entrada",
+      "descricao": "trigo, tomate, salsa e hortelã",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Baklava",
+      "preco": 12.0,
+      "categoria": "sobremesa",
+      "descricao": "massa folhada com pistache e mel",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Combo Esfihas (10 un.)",
+      "preco": null,
+      "categoria": "combo",
+      "descricao": "esfihas sortidas",
+      "alergenos": null,
+      "vegetariano": null
+    }
+  ]
+}

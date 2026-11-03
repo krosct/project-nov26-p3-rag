@@ -1,0 +1,78 @@
+{
+  "restaurante": "Dragão Dourado Comida Chinesa",
+  "itens": [
+    {
+      "nome": "Frango Xadrez",
+      "preco": 39.0,
+      "categoria": "prato_principal",
+      "descricao": "frango, pimentão, cebola, amendoim e molho shoyu",
+      "alergenos": [
+        "amendoim",
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Rolinho Primavera (4 un.)",
+      "preco": 16.0,
+      "categoria": "entrada",
+      "descricao": "massa de trigo com legumes",
+      "alergenos": [
+        "gluten",
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Arroz Chop Suey",
+      "preco": 32.0,
+      "categoria": "prato_principal",
+      "descricao": "arroz frito com legumes e ovo",
+      "alergenos": [
+        "ovo",
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Carne com Brócolis",
+      "preco": 42.0,
+      "categoria": "prato_principal",
+      "descricao": "carne bovina e brócolis ao molho de ostra",
+      "alergenos": [
+        "soja",
+        "frutos_do_mar"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Camarão Agridoce",
+      "preco": 54.0,
+      "categoria": "prato_principal",
+      "descricao": null,
+      "alergenos": [
+        "frutos_do_mar",
+        "gluten"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Biscoito da Sorte",
+      "preco": 3.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": [
+        "gluten"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Chá de Jasmim",
+      "preco": 7.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": [],
+      "vegetariano": null
+    }
+  ]
+}

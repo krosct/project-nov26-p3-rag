@@ -1,0 +1,87 @@
+{
+  "restaurante": "Maré Alta Frutos do Mar",
+  "itens": [
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 89.0,
+      "categoria": "prato_principal",
+      "descricao": "peixe, leite de coco, dendê e pimentões",
+      "alergenos": [
+        "peixe"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Moqueca de Camarão",
+      "preco": 99.0,
+      "categoria": "prato_principal",
+      "descricao": null,
+      "alergenos": [
+        "frutos_do_mar"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Casquinha de Siri",
+      "preco": 28.0,
+      "categoria": "entrada",
+      "descricao": "siri desfiado gratinado",
+      "alergenos": [
+        "frutos_do_mar",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Isca de Peixe",
+      "preco": 46.0,
+      "categoria": "entrada",
+      "descricao": "peixe empanado com molho tártaro",
+      "alergenos": [
+        "peixe",
+        "gluten",
+        "ovo"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Bobó de Camarão",
+      "preco": 92.0,
+      "categoria": "prato_principal",
+      "descricao": "creme de mandioca e camarão",
+      "alergenos": [
+        "frutos_do_mar"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Arroz de Polvo",
+      "preco": 84.0,
+      "categoria": "prato_principal",
+      "descricao": null,
+      "alergenos": [
+        "frutos_do_mar"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Cocada de Forno",
+      "preco": 14.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": [
+        "lactose",
+        "ovo"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Suco de Caju",
+      "preco": 9.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": [],
+      "vegetariano": null
+    }
+  ]
+}

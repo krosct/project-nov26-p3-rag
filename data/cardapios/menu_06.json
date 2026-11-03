@@ -1,0 +1,61 @@
+{
+  "restaurante": "Açaí do Porto",
+  "itens": [
+    {
+      "nome": "Açaí 300ml",
+      "preco": 16.0,
+      "categoria": "sobremesa",
+      "descricao": "com banana e granola",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Açaí 500ml",
+      "preco": 22.0,
+      "categoria": "sobremesa",
+      "descricao": "com banana, granola e leite em pó",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Açaí 700ml",
+      "preco": 28.0,
+      "categoria": "sobremesa",
+      "descricao": "com 3 complementos",
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Cupuaçu 500ml",
+      "preco": 23.0,
+      "categoria": "sobremesa",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Adicional de Nutella",
+      "preco": 6.0,
+      "categoria": "outro",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Adicional de Paçoca",
+      "preco": 3.5,
+      "categoria": "outro",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    },
+    {
+      "nome": "Água de Coco",
+      "preco": 7.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": null,
+      "vegetariano": null
+    }
+  ]
+}

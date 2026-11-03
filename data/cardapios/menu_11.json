@@ -1,0 +1,81 @@
+{
+  "restaurante": "Cantina Nonna Lina",
+  "itens": [
+    {
+      "nome": "Espaguete à Bolonhesa",
+      "preco": 42.0,
+      "categoria": "prato_principal",
+      "descricao": "molho de carne e parmesão",
+      "alergenos": [
+        "gluten",
+        "lactose",
+        "ovo"
+      ],
+      "vegetariano": false
+    },
+    {
+      "nome": "Fettuccine Alfredo",
+      "preco": 46.0,
+      "categoria": "prato_principal",
+      "descricao": "molho de creme de leite e parmesão",
+      "alergenos": [
+        "gluten",
+        "lactose",
+        "ovo"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Lasanha à Quatro Queijos",
+      "preco": 48.0,
+      "categoria": "prato_principal",
+      "descricao": null,
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Nhoque ao Sugo",
+      "preco": 39.0,
+      "categoria": "prato_principal",
+      "descricao": "nhoque de batata e molho de tomate",
+      "alergenos": [
+        "gluten",
+        "ovo"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Bruschetta",
+      "preco": 24.0,
+      "categoria": "entrada",
+      "descricao": "pão italiano, tomate, alho e manjericão",
+      "alergenos": [
+        "gluten"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Tiramisù",
+      "preco": 22.0,
+      "categoria": "sobremesa",
+      "descricao": "café, mascarpone e cacau",
+      "alergenos": [
+        "gluten",
+        "lactose",
+        "ovo"
+      ],
+      "vegetariano": true
+    },
+    {
+      "nome": "Água com Gás",
+      "preco": 6.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": [],
+      "vegetariano": true
+    }
+  ]
+}

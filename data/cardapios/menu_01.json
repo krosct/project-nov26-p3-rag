@@ -1,0 +1,103 @@
+{
+  "restaurante": "Forno da Vila Pizzaria",
+  "itens": [
+    {
+      "nome": "Pizza Margherita",
+      "preco": 52.9,
+      "categoria": "pizza",
+      "descricao": "molho de tomate, mussarela, tomate e manjericão",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Pizza Calabresa",
+      "preco": 49.9,
+      "categoria": "pizza",
+      "descricao": "molho de tomate, calabresa fatiada, cebola e azeitonas",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Pizza Quatro Queijos",
+      "preco": 58.0,
+      "categoria": "pizza",
+      "descricao": "mussarela, provolone, parmesão e gorgonzola",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Pizza Frango com Catupiry",
+      "preco": 56.5,
+      "categoria": "pizza",
+      "descricao": "frango desfiado e catupiry",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Pizza Portuguesa",
+      "preco": 54.9,
+      "categoria": "pizza",
+      "descricao": "presunto, ovos, cebola, ervilha e mussarela",
+      "alergenos": [
+        "gluten",
+        "lactose",
+        "ovo"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Pizza de Chocolate",
+      "preco": 45.0,
+      "categoria": "sobremesa",
+      "descricao": "chocolate ao leite e granulado",
+      "alergenos": [
+        "gluten",
+        "lactose",
+        "soja"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Pão de Alho",
+      "preco": 18.9,
+      "categoria": "entrada",
+      "descricao": "pão francês com manteiga de alho",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    },
+    {
+      "nome": "Refrigerante 2L",
+      "preco": 14.0,
+      "categoria": "bebida",
+      "descricao": null,
+      "alergenos": [],
+      "vegetariano": null
+    },
+    {
+      "nome": "Combo Família",
+      "preco": 99.9,
+      "categoria": "combo",
+      "descricao": "2 pizzas grandes e refrigerante 2L",
+      "alergenos": [
+        "gluten",
+        "lactose"
+      ],
+      "vegetariano": null
+    }
+  ]
+}
